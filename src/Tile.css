@@ -1,0 +1,66 @@
+.Tile {
+    min-width: 100px;
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+
+.Block1 {
+    background: url('./tiles/block.png') 0 0;
+}
+
+.Block2 {
+    background: url('./tiles/block.png') 0 -100px;
+}
+
+.Block3 {
+    background: url('./tiles/block.png') 0 -200px;
+}
+
+.Block4 {
+    background: url('./tiles/block.png') 0 -300px;
+}
+
+.Block5 {
+    background: url('./tiles/block.png') 0 -400px;
+}
+
+.Empty {
+    background: url('./tiles/empty.png') 0 0px;
+}
+
+.BlueLight {
+    background: url('./tiles/bluelight.png') 0 0;
+}
+
+.GreenLight {
+    background: url('./tiles/greenlight.png') 0 0;
+}
+
+.RedLight {
+    background: url('./tiles/redlight.png') 0 0;
+}
+
+.WhiteLight {
+    background: url('./tiles/whitelight.png') 0 0;
+}
+
+.YellowLight {
+    background: url('./tiles/yellowlight.png') 0 0;
+}
+
+.PurpleLight {
+    background: url('./tiles/purplelight.png') 0 0;
+}
+
+.Power {
+    background: url('./tiles/power.png') 0 0;
+}
+
+.WireDark {
+    background: url('./tiles/bluewire.png') 0 0;
+}
+
+.WireLit {
+    background: url('./tiles/yellowwire.png') 0 0;
+}

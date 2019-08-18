@@ -1,0 +1,17 @@
+.TextBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Text {
+    font-family: 'Futura Bold', Verdana, Sans-serif;
+    font-size: 18pt;
+}
+
+.Click {
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
